@@ -1,4 +1,4 @@
-#inlcude <studio.h>
+#include <stdio.h>
 #include <unistd.h>
 
 /**
